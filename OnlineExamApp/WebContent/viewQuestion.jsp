@@ -29,7 +29,7 @@
 %>
 </br>
 
-	<button type="submit">Next Question</button>
+	<button type="submit">Next Question Coming</button>
 
 </form>
 
